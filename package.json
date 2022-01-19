@@ -1,8 +1,8 @@
 {
-  "name": "@nestjsplus/nestjs-package-starter",
-  "version": "1.0.0",
+  "name": "@fengdi/nestjs-package-starter",
+  "version": "1.0.1",
   "description": "NestJS npm package starter",
-  "author": "John Biundo <johnfbiundo@gmail.com>",
+  "author": "fengdi<xujianfen@gmail.com>",
   "license": "MIT",
   "readmeFilename": "README.md",
   "main": "dist/test.js",
@@ -33,7 +33,7 @@
   },
   "bugs": "https://github.com/nestjsplus/nestjs-package-starter",
   "peerDependencies": {
-    "@nestjs/common": "^6.0.0"
+    "@nestjs/common": "^8.0.0"
   },
   "dependencies": {},
   "devDependencies": {
